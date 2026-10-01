@@ -1,0 +1,7 @@
+biopython>=1.83
+matplotlib>=3.7
+
+# System dependency (not pip-installable): Clustal Omega
+#   Ubuntu/Debian: sudo apt install clustalo
+#   conda:         conda install -c bioconda clustalo
+#   macOS:         brew install clustal-omega
